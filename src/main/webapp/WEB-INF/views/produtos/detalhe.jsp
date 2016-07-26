@@ -13,26 +13,27 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"/>
 		
 		<link href="https://plus.googlecom/108540024862647200608" rel="publisher"/>
-		<link href="https://cdn.rawgit.com/wandersonmaceds/spring-mvc-i-criando-aplicacoes-web/master/src/main/webapp/resources/css/cssbase-min.css" rel="stylesheet" type="text/css" media="all" />
+		<link href="https://cdn.rawgit.com/alura-cursos/spring-mvc-i-criando-aplicacoes-web-master/master/src/main/webapp/resources/css/cssbase-min.css" rel="stylesheet" type="text/css" media="all" />
 		<link href='http://fonts.googleapis.com/css?family=Droid+Sans:400,700' rel='stylesheet'/>
-		<link href="https://cdn.rawgit.com/wandersonmaceds/spring-mvc-i-criando-aplicacoes-web/master/src/main/webapp/resources/css/fonts.css" rel="stylesheet" type="text/css" media="all" />
-		<link href="https://cdn.rawgit.com/wandersonmaceds/spring-mvc-i-criando-aplicacoes-web/master/src/main/webapp/resources/css/fonts.css" rel="stylesheet" type="text/css" media="all" />
-		<link href="https://cdn.rawgit.com/wandersonmaceds/spring-mvc-i-criando-aplicacoes-web/master/src/main/webapp/resources/css/fontello-ie7.css" rel="stylesheet" type="text/css" media="all" />
-		<link href="https://cdn.rawgit.com/wandersonmaceds/spring-mvc-i-criando-aplicacoes-web/master/src/main/webapp/resources/css/fontello-embedded.css" rel="stylesheet" type="text/css" media="all" />
-		<link href="https://cdn.rawgit.com/wandersonmaceds/spring-mvc-i-criando-aplicacoes-web/master/src/main/webapp/resources/css/fontello.css" rel="stylesheet" type="text/css" media="all" />
-		<link href="https://cdn.rawgit.com/wandersonmaceds/spring-mvc-i-criando-aplicacoes-web/master/src/main/webapp/resources/css/style.css" rel="stylesheet" type="text/css" media="all" />
-		<link href="https://cdn.rawgit.com/wandersonmaceds/spring-mvc-i-criando-aplicacoes-web/master/src/main/webapp/resources/css/layout-colors.css" rel="stylesheet" type="text/css" media="all" />
-		<link href="https://cdn.rawgit.com/wandersonmaceds/spring-mvc-i-criando-aplicacoes-web/master/src/main/webapp/resources/css/responsive-style.css" rel="stylesheet" type="text/css" media="all" />
-		<link href="https://cdn.rawgit.com/wandersonmaceds/spring-mvc-i-criando-aplicacoes-web/master/src/main/webapp/resources/css/guia-do-programador-style.css" rel="stylesheet" type="text/css"  media="all"  />
-	    <link href="https://cdn.rawgit.com/wandersonmaceds/spring-mvc-i-criando-aplicacoes-web/master/src/main/webapp/resources/css/produtos.css" href="http://www.casadocodigo.com.br/" />	
-	    <link href="https://cdn.rawgit.com/wandersonmaceds/spring-mvc-i-criando-aplicacoes-web/master/src/main/webapp/resources/css/book-collection.css" href="http://www.casadocodigo.com.br/" />	
+		<link href="https://cdn.rawgit.com/alura-cursos/spring-mvc-i-criando-aplicacoes-web-master/master/src/main/webapp/resources/css/fonts.css" rel="stylesheet" type="text/css" media="all" />
+		<link href="https://cdn.rawgit.com/alura-cursos/spring-mvc-i-criando-aplicacoes-web-master/master/src/main/webapp/resources/css/fontello-ie7.css" rel="stylesheet" type="text/css" media="all" />
+		<link href="https://cdn.rawgit.com/alura-cursos/spring-mvc-i-criando-aplicacoes-web-master/master/src/main/webapp/resources/css/fontello-embedded.css" rel="stylesheet" type="text/css" media="all" />
+		<link href="https://cdn.rawgit.com/alura-cursos/spring-mvc-i-criando-aplicacoes-web-master/master/src/main/webapp/resources/css/fontello.css" rel="stylesheet" type="text/css" media="all" />
+		<link href="https://cdn.rawgit.com/alura-cursos/spring-mvc-i-criando-aplicacoes-web-master/master/src/main/webapp/resources/css/style.css" rel="stylesheet" type="text/css" media="all" />
+		<link href="https://cdn.rawgit.com/alura-cursos/spring-mvc-i-criando-aplicacoes-web-master/master/src/main/webapp/resources/css/layout-colors.css" rel="stylesheet" type="text/css" media="all" />
+		<link href="https://cdn.rawgit.com/alura-cursos/spring-mvc-i-criando-aplicacoes-web-master/master/src/main/webapp/resources/css/responsive-style.css" rel="stylesheet" type="text/css" media="all" />
+		<link href="https://cdn.rawgit.com/alura-cursos/spring-mvc-i-criando-aplicacoes-web-master/master/src/main/webapp/resources/css/guia-do-programador-style.css" rel="stylesheet" type="text/css"  media="all"  />
+	    <link href="https://cdn.rawgit.com/alura-cursos/spring-mvc-i-criando-aplicacoes-web-master/master/src/main/webapp/resources/css/produtos.css" rel="stylesheet" type="text/css"  media="all"  />	
+	    <link href="https://cdn.rawgit.com/alura-cursos/spring-mvc-i-criando-aplicacoes-web-master/master/src/main/webapp/resources/css/book-collection.css" rel="stylesheet" type="text/css"  media="all"  />
+	    <link href="https://cdn.rawgit.com/alura-cursos/spring-mvc-i-criando-aplicacoes-web-master/master/src/main/webapp/resources/css/checkout-style.css" rel="stylesheet" type="text/css"  media="all"  />
+	   	
 </head>
 <body>
 
   <header id="layout-header">
 		<div class="clearfix container">
 			<a href="/" id="logo">
-				<img src="https://cdn.rawgit.com/wandersonmaceds/spring-mvc-i-criando-aplicacoes-web/master/src/main/webapp/resources/imagens/cdc-logo.svg" />
+				<img src="https://cdn.rawgit.com/alura-cursos/spring-mvc-i-criando-aplicacoes-web-master/master/src/main/webapp/resources/imagens/cdc-logo.svg" />
 			</a>
 			<div id="header-content">
 				<nav id="main-nav">
