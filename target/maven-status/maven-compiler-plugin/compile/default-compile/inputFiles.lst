@@ -1,0 +1,16 @@
+/home/wanderson/Workspaces/java/web/casadocodigo/src/main/java/br/com/casadocodigo/loja/models/DadosPagamento.java
+/home/wanderson/Workspaces/java/web/casadocodigo/src/main/java/br/com/casadocodigo/loja/controllers/PagamentoController.java
+/home/wanderson/Workspaces/java/web/casadocodigo/src/main/java/br/com/casadocodigo/loja/infra/FileSaver.java
+/home/wanderson/Workspaces/java/web/casadocodigo/src/main/java/br/com/casadocodigo/loja/models/Produto.java
+/home/wanderson/Workspaces/java/web/casadocodigo/src/main/java/br/com/casadocodigo/loja/controllers/ProdutosController.java
+/home/wanderson/Workspaces/java/web/casadocodigo/src/main/java/br/com/casadocodigo/loja/models/CarrinhoCompras.java
+/home/wanderson/Workspaces/java/web/casadocodigo/src/main/java/br/com/casadocodigo/loja/controllers/CarrinhoComprasController.java
+/home/wanderson/Workspaces/java/web/casadocodigo/src/main/java/br/com/casadocodigo/loja/models/TipoPreco.java
+/home/wanderson/Workspaces/java/web/casadocodigo/src/main/java/br/com/casadocodigo/loja/conf/AppWebConfiguration.java
+/home/wanderson/Workspaces/java/web/casadocodigo/src/main/java/br/com/casadocodigo/loja/controllers/HomeController.java
+/home/wanderson/Workspaces/java/web/casadocodigo/src/main/java/br/com/casadocodigo/loja/validation/ProdutoValidation.java
+/home/wanderson/Workspaces/java/web/casadocodigo/src/main/java/br/com/casadocodigo/loja/models/Preco.java
+/home/wanderson/Workspaces/java/web/casadocodigo/src/main/java/br/com/casadocodigo/loja/conf/ServletSpringMVC.java
+/home/wanderson/Workspaces/java/web/casadocodigo/src/main/java/br/com/casadocodigo/loja/daos/ProdutoDAO.java
+/home/wanderson/Workspaces/java/web/casadocodigo/src/main/java/br/com/casadocodigo/loja/models/CarrinhoItem.java
+/home/wanderson/Workspaces/java/web/casadocodigo/src/main/java/br/com/casadocodigo/loja/conf/JPAConfiguration.java
